@@ -1,4 +1,4 @@
-# cat-photo-pp
+# cat-photo-app
 FreeCodeCamp.org Lesson-1
 
 
